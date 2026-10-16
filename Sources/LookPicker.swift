@@ -87,7 +87,7 @@ final class LookPicker: NSWindowController, NSWindowDelegate {
         use.target = self
         use.action = #selector(confirmAction)
 
-        let credit = NSTextField(wrappingLabelWithString: "Daymare is for adults: its velvet sessions are erotic, made of sound alone. Use headphones at a gentle volume, lying down, never while driving.")
+        let credit = NSTextField(wrappingLabelWithString: "Daymare is for adults: its velvet trances are made to play during sex or solo play. Use headphones at a gentle volume, never while driving.")
         credit.font = .systemFont(ofSize: 11)
         credit.textColor = NSColor(white: 0.5, alpha: 1)
         adult.attributedTitle = NSAttributedString(string: "I'm 18 or older", attributes: [.font: NSFont.systemFont(ofSize: 13, weight: .medium),

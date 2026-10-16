@@ -398,7 +398,10 @@ enum Library {
         d.set(installed, forKey: "installedSessions")
     }
 
-    static func load(from dir: URL = Paths.sessions) -> (sessions: [Session], errors: [String]) {
+    /// Screenshots read the bundled sessions only, never the user's own folder.
+    nonisolated(unsafe) static var folderOverride: URL?
+
+    static func load(from dir: URL = folderOverride ?? Paths.sessions) -> (sessions: [Session], errors: [String]) {
         let fm = FileManager.default
         let files = ((try? fm.contentsOfDirectory(at: dir, includingPropertiesForKeys: nil)) ?? [])
             .filter { $0.pathExtension == "txt" && $0.lastPathComponent != "KNOBS.txt" }   // the reference card isn't a session

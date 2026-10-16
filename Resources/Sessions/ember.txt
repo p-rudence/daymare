@@ -1,6 +1,6 @@
 # Ember
 room: velvet
-about: a heartbeat against you, breath at your ear, a pace to follow; edges you three times, then lets go
+about: a heartbeat against you, breath at your ear, a pace to follow; it rises to the edge three times, then lets go
 noise: brown
 chord: 1 5/4 3/2 2
 orbit: wind

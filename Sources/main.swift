@@ -166,7 +166,7 @@ func writeKnobReference() {
     }
     t += "\nWhile playing: if your head stirs, the session waits (time runs slower) until you settle.\n"
     t += "A deliberate nod (down-up-down) holds the depth where it is; nod again to go on.\n"
-    t += "In an edging session the nod means instead: building, \"I'm close\" (it rushes you to the edge);\n"
+    t += "In a velvet trance (one with an edge: line) the nod means instead: building, \"I'm close\" (it rushes you to the edge);\n"
     t += "at the edge, \"let me go\" (release). Moving speeds the build instead of slowing it.\n"
     t += "A shake wakes you. On the stem: one press wakes, two presses are the nod.\n"
     try? t.write(to: Paths.sessions.appendingPathComponent("KNOBS.txt"), atomically: true, encoding: .utf8)
@@ -194,6 +194,7 @@ if args.count > 2, args[1] == "--looks" {
     let dir = URL(fileURLWithPath: args[2])
     try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
     TitleBarView.alwaysActive = true
+    Library.folderOverride = Bundle.main.resourceURL?.appendingPathComponent("Sessions")   // never your own sessions
     func save(_ v: NSView, _ name: String) {
         v.layoutSubtreeIfNeeded(); RunLoop.main.run(until: Date().addingTimeInterval(0.3)); v.displayIfNeeded()
         guard let rep = v.bitmapImageRepForCachingDisplay(in: v.bounds) else { return }

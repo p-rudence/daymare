@@ -2,7 +2,7 @@
 
 **Trance made only of sound, for the Mac and AirPods.** For adults.
 
-Daymare plays sessions built entirely from live-synthesized sound: no voice, no pictures, nothing recorded. Its heart is the **velvet** room: erotic sessions that build, hold you at the edge, pull back into near-silence, and build again, until they let you go. Around it are rooms for trance, illusion and sleep.
+Daymare plays trances built entirely from live-synthesized sound: no voice, no pictures, nothing recorded. Its heart is the **velvet** room: trances to put on while you watch, read, touch yourself or have sex. The sound builds, holds at the edge, pulls back into near-silence and builds again, and you lead it: a nod says you're close, another says let go. Around it are rooms for trance, illusion and sleep.
 
 With AirPods that track your head, the sound-world stays put when you turn, a session waits while you stir, and you answer it without opening your eyes: a nod, a shake, a press of the stem.
 
@@ -10,7 +10,7 @@ With AirPods that track your head, the sound-world stays put when you turn, a se
 
 ## The rooms
 
-- **velvet** (18+): edging sessions. *Ember* edges you three times, *Heat* keeps changing its mind, *Goonsattva* holds you on a long, slow plateau six times, and *Blank* fills your head with warm static until you sleep.
+- **velvet** (18+): trances for sex and solo play. *Ember* is a heartbeat and a breath at your ear that rise to the edge three times, *Heat* keeps changing its mind, *Goonsattva* is deep and slow with a long hot plateau, and *Blank* fills your head with warm static until you sleep.
 - **abyss:** auditory illusions: a stair that falls forever, a floor that tilts, sounds crawling through your head.
 - **shrine:** bells, fire and a slowly turning room, for trance and a clear return.
 - **rest:** the sea, made for falling asleep. If you go still, it lets you.
