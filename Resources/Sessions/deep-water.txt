@@ -1,0 +1,15 @@
+# Deep Water
+room: rest
+about: an hour under the sea, a buoy bell far off; made for falling asleep
+noise: brown
+chord: 1 3/2 2 3
+orbit: wind
+space: hall
+sleep: 60
+fade: 40
+
+at 0:00   beat 8  carrier 160 binaural .4 breath 6.5 exhale .6 bed .8 bright .42 tide .6 guide .4 swell .8 tone 82 glow .35 orbit .2 spin -90 radius 4 rise -.5 whisper 500 bells .6 bell .35 bellpitch 330 height -.6 pulse .15
+at 10:00  beat 5  breath 5.5 exhale .65 bright .35 guide .3
+at 25:00  beat 3  breath 5 bright .3 guide .22 bells .4 orbit .14 radius 6
+at 45:00  beat 2  breath 4.5 bright .25 guide .14 bells .2 tide .5
+at 60:00  beat 1.5 bright .22 guide .08 bells .1 orbit .05

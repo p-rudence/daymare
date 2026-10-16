@@ -1,0 +1,16 @@
+# Tide
+room: rest
+about: the sea breathes with you; if you fall asleep, it lets you
+noise: brown
+chord: 1 3/2 2
+orbit: wind
+space: hall
+sleep: 45
+
+// breathe in as the sea comes in, out as it pulls away. it slows; you follow.
+at 0:00   beat 10  carrier 180 binaural .45 breath 7.5 exhale .55 bed .75 bright .55 tide .75 guide .45 swell .9 tone 98 glow .45 orbit .3 spin 50 radius 2.5 whisper 900 pulse .12
+at 3:00   beat 8   breath 6.5 exhale .6
+at 8:00   beat 6   breath 6   bright .45 glow .35 pulse .22
+at 15:00  beat 4.5 breath 5.5 exhale .65 bright .38 guide .32 orbit .22 spin 75 radius 3.5
+at 24:00  beat 3   breath 5   bright .3 guide .2 glow .25 orbit .14 radius 5
+at 30:00  beat 2.5 breath 5   bright .27 guide .12 tide .6 orbit .06

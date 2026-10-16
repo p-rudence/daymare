@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key><string>Daymare</string>
+	<key>CFBundleDisplayName</key><string>Daymare</string>
+	<key>CFBundleIdentifier</key><string>org.tianmu.daymare</string>
+	<key>CFBundleExecutable</key><string>Daymare</string>
+	<key>CFBundleIconFile</key><string>AppIcon</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleShortVersionString</key><string>1.0</string>
+	<key>CFBundleVersion</key><string>1</string>
+	<key>LSMinimumSystemVersion</key><string>14.0</string>
+	<key>LSApplicationCategoryType</key><string>public.app-category.healthcare-fitness</string>
+	<key>NSHighResolutionCapable</key><true/>
+	<key>NSPrincipalClass</key><string>NSApplication</string>
+	<key>NSMotionUsageDescription</key><string>Daymare follows your head through the AirPods: the sound-world stays put when you turn, the session waits when you stir, and a nod or a shake answers it.</string>
+	<key>NSHumanReadableCopyright</key><string>Daymare: trance made only of sound. Tianmu Labs.</string>
+</dict>
+</plist>

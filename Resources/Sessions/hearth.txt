@@ -1,0 +1,14 @@
+# Hearth
+room: shrine
+about: Heaven's Fire: a fire before you, a low hum, the room slowly turning
+noise: brown
+chord: 1 2 3 4
+orbit: wind
+space: chamber
+
+at 0:00   beat 9  carrier 196 binaural .4 breath 6.5 exhale .6 fire .7 crackle .45 guide .45 swell .5 tone 65.4 glow .3 bed .3 bright .3 orbit .18 spin 120 radius 2 rise 1 whisper 1400 pulse .1
+at 5:00   beat 7  breath 6 turn 4
+at 12:00  beat 5.5 breath 5.5 turn 8 crackle .35 glow .26 pulse .2
+at 20:00  beat 4.5 turn 10 guide .5 bells .5 bell .3 bellpitch 261.6 height 1.2
+at 26:00  beat 6  turn 4 bells .8
+at 30:00  beat 7.5 turn 0 crackle .45 glow .32

@@ -1,0 +1,14 @@
+# Undertow
+room: abyss
+about: sounds crawl through your head while the floor tilts; nothing stays where it was
+noise: brown
+chord: 1 45/32 2
+orbit: wind
+space: abyss
+
+at 0:00   beat 8   carrier 170 binaural .45 breath 6 exhale .62 bed .5 bright .35 tide .5 guide .3 swell .7 tone 55 glow .25 orbit .25 spin 30 radius 1.5 whisper 700 swarm .2 flux 2 pulse .15
+at 5:00   beat 6   swarm .4 flux 4 turn -8 spin 18
+at 10:00  beat 5   swarm .55 flux 6 turn 15 radius .8 shepard .3 fall -1
+at 16:00  beat 4   swarm .6 flux 9 turn -20 spin -12 shepard .5 fall -1.5 pulse .3
+at 20:00  beat 4   swarm .3 flux 3 turn 5 spin 40 shepard .2 radius 2
+at 25:00  beat 6   swarm 0 turn 0 shepard 0 glow .3

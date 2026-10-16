@@ -1,0 +1,33 @@
+# Heat
+room: velvet
+about: a pace to follow that keeps changing its mind; four edges, near-silence between, then the crest
+noise: pink
+chord: 1 6/5 3/2 2
+orbit: wind
+space: room
+fade: 15
+wake: 60
+edge: 24:00
+hold: 60s
+cool: 15:30
+cycles: 4
+release: 24:20
+drive: 1.5
+lift: 12
+countdown: 14s
+
+// beat-led: the pace leads, everything else follows it up.
+at 0:00   beat 10  carrier 180 binaural .3 breath 7 exhale .55 heart .45 bpm 66 pace .5 tempo 70 pattern 0 guide .35 swell .6 tone 98 glow .4 bed .25 bright .35 orbit .3 spin 20 radius .5 whisper 1300 surge .2 wave 30 pulse .15
+at 5:00   tempo 82 pattern 2 bpm 70 surge .3
+at 9:00   tempo 92 pattern 0 orbit .4 spin 14 glow .48
+at 12:00  tempo 100 pattern 3 surge .45 wave 22
+at 14:00  tempo 104 pattern 1 bpm 76 swarm .1 flux 3
+at 18:00  tempo 112 pattern 4 surge .6 wave 16 glow .55
+at 21:00  tempo 120 pattern 1 bpm 84 orbit .5 spin 8 radius .35 swarm .2 flux 5 pulse .25
+at 24:00  tempo 126 pattern 1 bpm 90 surge .8 wave 10 glow .65 guide .5
+// release: the pace is gone; the body is loud
+at 24:20  bpm 96 surge .9
+at 25:20  bpm 108 surge 1 wave 6 glow .8 guide .6 swarm .3 flux 7
+at 26:30  bpm 92 swarm .1 flux 2
+at 29:00  bpm 68 surge .2 wave 40 glow .4 orbit .25 spin 30 radius .6 swarm 0 pulse .05
+at 34:00  bpm 60 surge .05 glow .34

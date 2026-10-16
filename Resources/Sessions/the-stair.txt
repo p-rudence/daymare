@@ -1,0 +1,28 @@
+# The Stair
+room: abyss
+about: a stair that falls forever; the room turns, the floor drops away, again and again
+noise: pink
+chord: 1 16/15 3/2 2
+orbit: tone
+space: abyss
+fade: 30
+
+// the Shepard fall never arrives anywhere. each drop to near-silence returns a little deeper.
+at 0:00   beat 9   carrier 200 binaural .45 breath 6.5 exhale .6 bed .45 bright .4 guide .35 swell .6 tone 73.4 glow .3 shepard .35 fall 1 orbit .12 spin 40 radius 3 whisper 300 pulse .2
+at 4:00   beat 7   shepard .6 fall 1.5 turn 6
+at 7:00   master 1
+at 7:02   master .06
+at 7:12   master .06
+at 7:20   master 1 beat 6 swarm .25 flux 2
+at 11:00  master 1 turn 12 shepard .7 fall 2
+at 11:02  master .05
+at 11:14  master .05
+at 11:22  master 1 beat 5 swarm .35 flux 3.5 glow .25
+at 15:00  master 1 turn -10 spin -25 orbit .2
+at 15:02  master .04
+at 15:18  master .04
+at 15:26  master 1 beat 4.5 swarm .45 flux 5 shepard .8 fall 2.5
+at 20:00  turn 20 radius 1.2 flux 7 pulse .3
+at 24:00  turn 6 swarm .2 flux 2 shepard .5 fall 1 radius 3
+at 28:00  turn 0 swarm 0 shepard .2 beat 6 glow .3
+at 30:00  shepard 0 beat 7.5

@@ -1,0 +1,31 @@
+# Blank
+room: velvet
+about: night night: warm static fills your head until there's nothing left to think with, then sleep
+noise: .55
+chord: 1 3/2 2
+orbit: wind
+space: hall
+fade: 40
+ending: sleep
+sleep: 30
+
+// no edges, no peaks: a soft wall of sound swallows the thoughts. every few minutes it blinks out
+// and comes back a little emptier. the floor falls forever, slower and slower.
+at 0:00   beat 8   carrier 140 binaural .4 breath 6 exhale .62 bed .55 bright .45 tide .4 guide .35 swell .5 tone 65.4 glow .3 orbit .3 spin 30 radius .4 whisper 700 swarm .18 flux 1.2 shepard .3 fall .6 heart .3 bpm 58 pulse .2
+at 4:00   beat 6   breath 5.5 bed .62 swarm .24 flux 1 turn 2
+at 6:00   master 1
+at 6:02   master .1
+at 6:08   master .1
+at 6:16   master 1 beat 5
+at 11:00  beat 4.5 breath 5 bed .66 bright .4 shepard .38 fall .4 swarm .2 flux .8 heart .25 bpm 54 glow .26
+at 13:00  master 1
+at 13:02  master .08
+at 13:10  master .08
+at 13:20  master 1 beat 3.5 orbit .22 radius .6
+at 20:00  beat 3   breath 4.6 bed .68 bright .34 shepard .3 fall .25 swarm .12 flux .6 bpm 52 guide .25 turn 1
+at 22:00  master 1
+at 22:02  master .07
+at 22:12  master .07
+at 22:24  master 1 beat 2.5
+at 32:00  beat 2   breath 4.5 bed .62 bright .3 shepard .18 fall .15 swarm .05 orbit .1 heart .15 bpm 50 guide .15 turn 0 pulse .1
+at 40:00  beat 1.5 bed .58 bright .28 shepard .1 swarm 0 guide .1 heart .1

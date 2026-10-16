@@ -1,0 +1,31 @@
+# Ember
+room: velvet
+about: a heartbeat against you, breath at your ear, a pace to follow; edges you three times, then lets go
+noise: brown
+chord: 1 5/4 3/2 2
+orbit: wind
+space: room
+wake: 60
+edge: 16:00
+hold: 50s
+cool: 10:00
+cycles: 3
+release: 16:30
+drive: 1.2
+lift: 10
+
+// the build: your moving speeds it. nod (or press the stem twice) when you're close;
+// at the edge, nod again to let go. a rush of air rises before each edge on its own.
+at 0:00   beat 8   carrier 160 binaural .35 breath 6.5 exhale .6 heart .55 bpm 62 fire .3 crackle .25 guide .5 swell .85 tone 87.3 glow .35 bed .3 bright .3 tide .5 orbit .35 spin 24 radius .45 rise .05 whisper 1100 surge .15 wave 40 pulse .1 pace .0 tempo 64 pattern 5
+at 2:00   pace .35
+at 6:00   beat 6.5 bpm 66 surge .35 wave 32 glow .4 tempo 72 pattern 0
+at 11:00  beat 6   bpm 72 surge .55 wave 24 orbit .45 spin 16 glow .5 pulse .2 tempo 86 pace .45 pattern 2
+// the edge: held here while you hang on
+at 16:00  beat 5.5 bpm 82 surge .8 wave 14 orbit .55 spin 9 radius .35 glow .6 pulse .3 guide .6 tempo 100 pattern 1 pace .5
+// letting go (the pace stops dead at the crest)
+at 16:30  beat 5.5 bpm 88 surge .85 wave 12
+at 17:30  bpm 104 surge 1 wave 6 glow .78 guide .72 orbit .65 spin 5 radius .3 pulse .35 swell .2
+at 18:30  bpm 96 surge .9 wave 8
+// afterglow
+at 20:30  beat 5 bpm 66 surge .25 wave 36 orbit .3 spin 30 radius .5 glow .38 pulse .1 guide .45 swell .8
+at 26:00  bpm 58 surge .08 glow .32

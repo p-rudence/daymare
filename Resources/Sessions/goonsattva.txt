@@ -1,0 +1,34 @@
+# Goonsattva
+room: velvet
+about: deep trance, a slowing heart, arousal held on a long plateau; edges you six times in stillness
+noise: brown
+chord: 1 5/4 3/2 15/8 2
+orbit: wind
+space: hall
+fade: 45
+wake: 90
+edge: 30:00
+hold: 2:00
+cool: 22:00
+cycles: 6
+release: 30:30
+drive: .5
+lift: 4
+
+// a calm body and a burning mind: the heart and the pace slow as the heat rises.
+// the floor falls forever (the Shepard tone), the room drifts, the sea breathes with you.
+// before each edge the fall turns into an endless climb.
+at 0:00   beat 9   carrier 150 binaural .4 breath 6 exhale .62 bed .45 bright .32 tide .6 heart .45 bpm 64 guide .45 swell .8 tone 73.4 glow .3 orbit .25 spin 40 radius .6 rise .1 whisper 950 surge .1 wave 60 pulse .1 shepard .25 fall .4 pace 0 tempo 56 pattern 5
+at 3:00   pace .2
+at 6:00   beat 6.5 breath 5.5 exhale .65 bpm 60 shepard .35 turn 2
+at 14:00  beat 5   breath 5   bpm 57 glow .42 surge .3 wave 45 orbit .35 radius .45 heart .55 guide .5 tempo 52 pace .24
+at 22:00  beat 4.5 breath 4.8 bpm 55 glow .5 surge .5 wave 36 orbit .45 spin 28 radius .38 pulse .18 turn 3 tempo 50
+// the plateau: the lowest heart and the most heat
+at 30:00  beat 4.5 breath 4.6 bpm 52 glow .62 surge .72 wave 28 orbit .55 spin 22 radius .3 heart .65 guide .58 pulse .25 shepard .45 fall .5 tempo 48 pace .28
+// the bloom: a sudden racing heart, then everything opens
+at 30:30  bpm 54 surge .8
+at 31:30  bpm 84 surge 1 wave 9 glow .8 guide .7 orbit .65 spin 8 shepard .2 fall -1 swell .3
+at 32:30  bpm 76 surge .85 wave 12
+// afterglow: the sea, a slow heart, the floor still falling
+at 35:00  beat 5 bpm 54 surge .2 wave 50 glow .35 guide .4 orbit .25 spin 45 radius .6 shepard .3 fall .3 turn 1 swell .8
+at 45:00  beat 6 bpm 50 surge .05 glow .3 heart .4 shepard .15 turn 0
