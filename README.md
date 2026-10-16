@@ -1,8 +1,8 @@
 # Daymare
 
-**Trance made only of sound, for the Mac and AirPods.** For adults.
+**Trances made only of sound, for the Mac and AirPods.** Sleep, deep trance, illusions, and the bedroom (18+).
 
-Daymare plays trances built entirely from live-synthesized sound: no voice, no pictures, nothing recorded. Its heart is the **velvet** room: trances to put on while you watch, read, touch yourself or have sex. The sound builds, holds at the edge, pulls back into near-silence and builds again, and you lead it: a nod says you're close, another says let go. Around it are rooms for trance, illusion and sleep.
+Daymare plays trances built entirely from live-synthesized sound: no voice, no pictures, nothing recorded. Put one on to sink into deep trance, to lose your footing in an auditory illusion, to fall asleep to the sea, or, in the **velvet** room, to play in the background of sex or solo play, where the sound builds, holds at the edge, pulls back into near-silence and builds again, and you lead it with a nod.
 
 With AirPods that track your head, the sound-world stays put when you turn, a session waits while you stir, and you answer it without opening your eyes: a nod, a shake, a press of the stem.
 
